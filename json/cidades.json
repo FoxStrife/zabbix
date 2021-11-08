@@ -28,5 +28,11 @@
         "latitude": -25,4754,
         "longitude": -49,3414,
 	"name": "FK CIC PDV01"
+    },
+    {
+        "key": "FKCIC2",
+        "latitude": -25,4754,
+        "longitude": -49,3414,
+	"name": "FK CIC PDV02"
     }
 ]
