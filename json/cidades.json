@@ -6,10 +6,16 @@
 	"name": "Abadia de Goiás"
     },
 	{
-        "key": "ITAJAI",
+        "key": "FKITAJAI01",
         "latitude": -26.9083,
         "longitude": -48.6626,
-	"name": "Itajaí"
+	"name": "FK Itajaí 01"
+    },
+	{
+        "key": "FKITAJAI02",
+        "latitude": -26.9083,
+        "longitude": -48.6626,
+	"name": "FK Itajaí 02"
     },
     {
         "key": "Zortea",
@@ -18,9 +24,9 @@
 	"name": "Zortéa"
     },
     {
-        "key": "CURITIBA",
-        "latitude": -25.4284,
-        "longitude": -49.2733,
-	"name": "Curitiba"
+        "key": "FKCIC1",
+        "latitude": -25,4754,
+        "longitude": -49,3414,
+	"name": "FK CIC PDV01"
     }
 ]
