@@ -1,20 +1,20 @@
 [
     {
-        "key": "Abadia de Goiás",
-        "name": "Abadia de Goiás",
+        "key": "Abadia-de-Goias,
         "latitude": -16.7573,
         "longitude": -49.4412,
+	"name": "Abadia de Goiás"
     },
 	{
-        "key": "ITJ",
-        "name": "Itajaí",
+        "key": "ITAJAI",
         "latitude": -26.9101,
         "longitude": -48.6705,
+	"name": "Itajaí"
     },
     {
-        "key": "Zortéa",
-        "name": "Zortéa",
+        "key": "Zortea",
         "latitude": -27.4521,
         "longitude": -51.552,
+	"name": "Zortéa"
     }
 ]
