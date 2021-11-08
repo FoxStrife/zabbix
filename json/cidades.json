@@ -16,5 +16,11 @@
         "latitude": -27.4521,
         "longitude": -51.552,
 	"name": "Zortéa"
+    },
+    {
+        "key": "CURITIBA",
+        "latitude": -25.4284,
+        "longitude": -49.2733,
+	"name": "Curitiba"
     }
 ]
